@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="distributeur de billets" version="4">
+  <OBJECT>
+    <ID name="distributeur de billets" mc="Standard.Package" uid="b67af9d0-ef0d-4365-a6af-230012dd1360"/>
+    <PID name="Distributeur de billets" mc="Standard.Project" uid="56ac7aac-d6a1-49b6-9464-6ced82f4668d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[distributeur de billets]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Client banque" mc="Standard.Actor" uid="df32c550-5eb5-470d-8abb-b622b22ec455"/>
+        <COMPID name="Banque" mc="Standard.Actor" uid="2ea3abbd-663d-4232-be47-771713a2f02f"/>
+        <COMPID name="Controle carte" mc="Standard.UseCase" uid="0bda9257-07f9-446d-9548-c6964aa2f19c"/>
+        <COMPID name="Consulter son solde" mc="Standard.UseCase" uid="2fbee2ed-b7b6-441d-bcb2-730d73654e68"/>
+        <COMPID name="Retrait" mc="Standard.UseCase" uid="45c98e26-ef42-4253-9043-8fdd568a8547"/>
+        <COMPID name="Editer un RIB" mc="Standard.UseCase" uid="f718fff6-e001-4e92-99ea-bb2ab54f88a1"/>
+        <COMPID name="Commander chéquier" mc="Standard.UseCase" uid="a01cf714-6f79-43e5-b86f-a468130e5b20"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="1744bc14-7f3e-4a8b-aa9f-b89d19d5e339"/>
+        <COMPID name="distributeur de billets Use Case diagram" mc="Standard.UseCaseDiagram" uid="29a0047c-b430-4639-aab7-d1891e562acb"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

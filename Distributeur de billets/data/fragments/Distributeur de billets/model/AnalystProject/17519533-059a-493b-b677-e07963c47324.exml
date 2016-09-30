@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Distributeur de billets" version="4">
+  <OBJECT>
+    <ID name="Distributeur de billets" mc="Standard.AnalystProject" uid="17519533-059a-493b-b677-e07963c47324"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Distributeur de billets]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="Distributeur de billets" mc="Standard.PropertyContainer" uid="40f84cb3-c642-44d8-adb7-1178013d8546"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

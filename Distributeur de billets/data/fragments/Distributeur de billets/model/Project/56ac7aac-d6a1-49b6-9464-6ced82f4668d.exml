@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Distributeur de billets" version="4">
+  <OBJECT>
+    <ID name="Distributeur de billets" mc="Standard.Project" uid="56ac7aac-d6a1-49b6-9464-6ced82f4668d"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Distributeur de billets]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Distributeur de billets" mc="Standard.DiagramSet" uid="bfc85336-4ce7-4e8e-ba37-18febe8152d4"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="distributeur de billets" mc="Standard.Package" uid="b67af9d0-ef0d-4365-a6af-230012dd1360"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

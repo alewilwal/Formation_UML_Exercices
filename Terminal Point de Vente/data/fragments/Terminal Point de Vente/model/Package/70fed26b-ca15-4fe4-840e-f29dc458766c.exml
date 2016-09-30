@@ -13,8 +13,18 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Vendeur" mc="Standard.Actor" uid="d95b5dc5-bbdc-4a91-aaca-338aeb45e2d8"/>
+        <COMPID name="Stock" mc="Standard.Actor" uid="69315155-5ae5-45fe-8850-549a8dd64f50"/>
+        <COMPID name="Entrer une référence" mc="Standard.UseCase" uid="2ea9b205-0911-4d00-bde1-40a7593396d7"/>
+        <COMPID name="Interroger le stock" mc="Standard.UseCase" uid="872a7a44-f4b6-415f-b5c8-b3a8f4f3328c"/>
+        <COMPID name="Réserver / Commander produit" mc="Standard.UseCase" uid="fe3dccbe-6625-4002-adc1-f210fdaf142a"/>
+        <COMPID name="Editer Bon de Commande" mc="Standard.UseCase" uid="8253feb4-38c2-490b-ad98-11545e60fb1a"/>
+        <COMPID name="Lire les informations du produit" mc="Standard.UseCase" uid="2aa8a914-af1e-4d81-9c3a-42a1ac99f573"/>
+      </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="f22a5781-e768-455a-ba91-2580b6733fd2"/>
+        <COMPID name="terminal point de vente Use Case diagram" mc="Standard.UseCaseDiagram" uid="a1168bce-c9e2-44f7-8169-b5282a4ce1dc"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
