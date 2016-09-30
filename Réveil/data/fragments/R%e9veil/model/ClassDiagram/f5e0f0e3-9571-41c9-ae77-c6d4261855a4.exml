@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="overview diagram" version="4">
+  <OBJECT>
+    <ID name="overview diagram" mc="Standard.ClassDiagram" uid="f5e0f0e3-9571-41c9-ae77-c6d4261855a4"/>
+    <PID name="réveil" mc="Standard.Package" uid="fe252145-a230-4823-bc03-003fda777be0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">60</ATT>
+      <ATT name="UiData"><![CDATA[eJztU11PKjEQ/StN3ymgIJqsGGUNMa5iQE18MsN2wGq3JW352H9/u+xyFQybNTH64lPb6ZwzX2eCs1UiyQKNFVqd0iZrUHLWDQbjV4wdEdybKHHpDE+pNlOWaI5SaMYFTA0kDLlw2jDrwIk3hhITVM7m73jj1E9G63eYvylJ4FWb5/9BG7Qb3Bk9Q+NSoiDxsSSkeu5CcOD/HkHOsUhCzaWk9W5Q3wA+QUculUi3SjgoK8Fm/pbF2iDLsRXy64GNgSPfBLtcuSFOKka59RQFkuDKheMrn+P6ml04TmAu3U6R9bycssINSnDIfR47PbvJTGSRWXzmEqwtJkEmbWxMGnhYO2l3mrVWMz6pAXY6tfiItw6OmsftNrTKu+3Z3LXSSxXBGOVO4JEzQk1pV/tWLgQuSdGNoL72Ki1GS7xSPZ3MtBXOj2EPdQWq3ouQ3GDGEAmbtbA49iIiod5sdfeLaWhg6dOJIEWzLb3D0u3Z7AvP8ZbJjMEvzBbhz+zL11C/IjbB96gg7LPo/Oly+Hxx3rvuDwcPt+H3CKPC2n0c1btoPkig9SeBn5TA/eDuu2e/9+sfP4WEfA==]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[overview diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

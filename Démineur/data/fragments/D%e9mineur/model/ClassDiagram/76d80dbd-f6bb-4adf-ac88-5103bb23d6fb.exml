@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="overview diagram" version="4">
+  <OBJECT>
+    <ID name="overview diagram" mc="Standard.ClassDiagram" uid="76d80dbd-f6bb-4adf-ac88-5103bb23d6fb"/>
+    <PID name="démineur" mc="Standard.Package" uid="404886db-fb40-4b78-914b-b3274efb45e4"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">85</ATT>
+      <ATT name="UiData"><![CDATA[eJztU11v2jAU/SuW3zG0dIyHlKolFaqalQq6SXuqruMb5taxkW0+8u/nkLAVJqJMqrqXPdm+vufcr3Ojq22uyBqtk0Zf0jPWo+RqFE35C6aeSBFMlPhiiZfU2AXLjUAlDRMSFhZyhkJ6Y5nz4OUrQ4U5au+qd7p3muTz3Tuu3pTk8GLs86+gPTqKHq1ZovUF0ZCHWAoKs/IxeAh/30CtsE5Cr5Si3VHU3QP+gM59oZAelHDeVIIr/R1LjUVWYVvkNwaXgkCxD3a79TPMWkZ5CBQ1kuDWx/wu5Li7lheBGayUPyqyW5XTVLhFBR5FyOOoZ19KE1mXlpC5AufqSZDPAzHsCS462YDzzgWIrAPpcNj5dNbrc37eF4OMN3c7sPl7bTY6AY7qKPDcW6kXdGRCK9cSN6TuRtTdeTUWYxTe6bHJl8ZJH8ZwgroF1fiHVMJiyZBIV7awPk4iEqlfXXv3m0VsYRPSSaBAeyi9fuP27PdFVHjHVMkQFuaA8GP25e9Q/0RsUpxQQTxhyfX329nzzfX4fjKbfn2I30cYLdbu7ah+i+aNBC7+S+AjJfA0fXzv2Z/8+gkO2og8]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[overview diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

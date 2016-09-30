@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Réveil" version="4">
+  <OBJECT>
+    <ID name="Réveil" mc="Standard.Project" uid="29b830b0-5b7d-4a01-91a9-f45afaade16c"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Réveil]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Réveil" mc="Standard.DiagramSet" uid="4aeb254e-8464-4225-adcb-f53841fb2a92"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="réveil" mc="Standard.Package" uid="fe252145-a230-4823-bc03-003fda777be0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

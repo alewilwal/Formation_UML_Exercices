@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="réveil" version="4">
+  <OBJECT>
+    <ID name="réveil" mc="Standard.Package" uid="fe252145-a230-4823-bc03-003fda777be0"/>
+    <PID name="Réveil" mc="Standard.Project" uid="29b830b0-5b7d-4a01-91a9-f45afaade16c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[réveil]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Utilisateur" mc="Standard.Actor" uid="b0ea2bec-2936-466a-99c4-5a1d497bac64"/>
+        <COMPID name="Régler l'heure" mc="Standard.UseCase" uid="cb00b2e8-13cc-4bb1-9990-250b9662abc0"/>
+        <COMPID name="Régler l'alarme" mc="Standard.UseCase" uid="f8019687-c37c-40f5-9d12-7a862b33aa59"/>
+        <COMPID name="Activer / Désactiver l'alarme" mc="Standard.UseCase" uid="cfbdc569-0e54-431d-9c1f-e26d3d12a028"/>
+        <COMPID name="Snooze sur l'alarme" mc="Standard.UseCase" uid="bbcc1e1e-7077-4a06-b0f1-32e2226e43eb"/>
+        <COMPID name="Être réveillé" mc="Standard.UseCase" uid="1bf7b98c-73a8-4e1f-abb9-1a4d4c7d9db0"/>
+        <COMPID name="Voir l'heure" mc="Standard.UseCase" uid="cec8385d-c288-413c-8bf7-b6ee1f825318"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="f5e0f0e3-9571-41c9-ae77-c6d4261855a4"/>
+        <COMPID name="réveil Use Case diagram" mc="Standard.UseCaseDiagram" uid="ca9124de-c0e2-48f7-a167-b7c74e28b644"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

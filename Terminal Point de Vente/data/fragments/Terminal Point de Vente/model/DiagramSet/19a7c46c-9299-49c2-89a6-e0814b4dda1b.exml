@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Terminal Point de Vente" version="4">
+  <OBJECT>
+    <ID name="Terminal Point de Vente" mc="Standard.DiagramSet" uid="19a7c46c-9299-49c2-89a6-e0814b4dda1b"/>
+    <PID name="Terminal Point de Vente" mc="Standard.Project" uid="bb38c303-9ae6-4bf0-ac17-75d89ab6ea4c"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Terminal Point de Vente]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

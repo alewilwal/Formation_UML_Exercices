@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="démineur" version="4">
+  <OBJECT>
+    <ID name="démineur" mc="Standard.Package" uid="404886db-fb40-4b78-914b-b3274efb45e4"/>
+    <PID name="Démineur" mc="Standard.Project" uid="64739053-6016-4f8d-9b18-b1af3cb99630"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[démineur]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Joueur" mc="Standard.Actor" uid="016a2294-382e-40cd-9271-e2b909d51211"/>
+        <COMPID name="Révèle une case" mc="Standard.UseCase" uid="a6244324-b9af-42f7-96a0-afae3971ae43"/>
+        <COMPID name="Créer une nouvelle partie" mc="Standard.UseCase" uid="13b16fa3-967e-49f1-bfcd-4b8e17a24e2e"/>
+        <COMPID name="Marquer / Démarquer des cases" mc="Standard.UseCase" uid="ef9d44f7-16a8-453c-ad67-19371dc73276"/>
+        <COMPID name="Modification des options du jeu" mc="Standard.UseCase" uid="21d51f0e-6988-4c4c-87cc-68a1c76f0e28"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="76d80dbd-f6bb-4adf-ac88-5103bb23d6fb"/>
+        <COMPID name="démineur Use Case diagram" mc="Standard.UseCaseDiagram" uid="14630e7c-eeda-4e1f-951d-4658cd70cec2"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Standard.Note" uid="04ec5224-3d6e-42b9-a542-6347ad448cfa"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Standard.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

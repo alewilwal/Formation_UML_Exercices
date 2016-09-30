@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Terminal Point de Vente" version="4">
+  <OBJECT>
+    <ID name="Terminal Point de Vente" mc="Standard.AnalystProject" uid="9a23974a-43a6-4dce-b1a9-46401cd026c2"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Terminal Point de Vente]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="Terminal Point de Vente" mc="Standard.PropertyContainer" uid="5a67fad3-30a6-495f-a37f-ef4a51689b8d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
